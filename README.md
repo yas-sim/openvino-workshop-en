@@ -50,7 +50,7 @@ Windows > call "Program Files (x86)\IntelSWTools\OpenVINO\bin\setupvars.bat"
 
 ## Requirement
 This workshop requires [Intel distribution of OpenVINO toolkit](https://software.intel.com/en-us/openvino-toolkit
-).
+).　Tested with OpenVINO 2020.1 version.
 
 ## Contribution
 
