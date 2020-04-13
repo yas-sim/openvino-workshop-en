@@ -1,7 +1,8 @@
 # openvino-workshop-en
 
 ## Overview
-Hands-on workshop contents to learn Intel distribution of OpenVINO toolkit - a deep learning inferencing library
+Hands-on workshop contents to learn Intel distribution of OpenVINO toolkit - a deep learning inferencing library.
+The workshop contents are tested on Ubuntu and Windows 10 systems.
 
 ## Description
 [Intel distribution of OpenVINO toolkit](https://software.intel.com/en-us/openvino-toolkit) is a library suite for computer vision applications. OpenVINO consists of following libraries and tools.  
